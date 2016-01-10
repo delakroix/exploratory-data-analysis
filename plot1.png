@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='GitLab Community Edition' name='description'>
+<meta content='origin-when-cross-origin' name='referrer'>
+<title>plot1.png · master · WeiHsinChen / Repo · GitLab</title>
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-0037f4682f7f2d45973338aad43f3d54.ico" />
+<link rel="stylesheet" media="all" href="/assets/application-32755ae1e9ab8ff9dd36ad4f47aba9c4.css" />
+<link rel="stylesheet" media="print" href="/assets/print-2cb1262fb60ceb73f2fe76fd1a61dccf.css" />
+<script src="/assets/application-29243f271de184b06e809d3026b88624.js"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="L3aOjs3R7doLIYuXmwZaaJzCeRvYm50AN5asqx5xNCF/WR2T30Bmb5OXnjZ/oZ9yfLRggsx4uyusoJxecVAQBg==" />
+<script>
+//<![CDATA[
+window.gon={};gon.api_version="v3";gon.default_avatar_url="https://gitlab.eecs.umich.edu/assets/no_avatar-0801eb7ed213327da2a534095a75b248.png";gon.default_issues_tracker="gitlab";gon.max_file_size=10;gon.relative_url_root="";gon.user_color_scheme="white";
+//]]>
+</script>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-c2b181d197c3b7be4f8ac381458895bb.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-fede15aef7610235936a27957400503a.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-88529dea2f9320df1a3cc45d92e86147.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-c0dbda7e71802ee480f6d666da4b834a.png" sizes="152x152" />
+<meta content='/assets/msapplication-tile-2efcb14bec26fd879dd1914db581f8f9.png' name='msapplication-TileImage'>
+<meta content='#30353E' name='msapplication-TileColor'>
+
+
+
+
+<style>
+  [data-user-is] {
+    display: none !important;
+  }
+  
+  [data-user-is=""] {
+    display: block !important;
+  }
+  
+  [data-user-is=""][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not] {
+    display: block !important;
+  }
+  
+  [data-user-is-not][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not=""] {
+    display: none !important;
+  }
+</style>
+
+</head>
+
+<body class='ui_charcoal' data-page='projects:blob:show'>
+
+<header class='header-expanded navbar navbar-fixed-top navbar-gitlab'>
+<div class='container-fluid'>
+<div class='header-content'>
+<div class='pull-right'>
+<a class="btn btn-sign-in btn-success" href="/users/sign_in?redirect_to_referer=yes">Sign in</a>
+</div>
+<h1 class='title'><span><a href="/groups/WeiHsinChen">WeiHsinChen</a> / <a href="/WeiHsinChen/Repo">Repo</a> &middot; <a href="/WeiHsinChen/Repo/tree/master">Files</a></span></h1>
+</div>
+</div>
+</header>
+
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+<div class='nicescroll sidebar-expanded sidebar-wrapper'>
+<div class='header-logo'>
+<a class="home" title="Dashboard" id="js-shortcuts-home" href="/"><svg width="36px" height="36px" viewBox="0 0 210 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="tanuki-logo">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup" transform="translate(0.000000, 10.000000)">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="Fill-1-+-Group-24">
+                    <g id="Group-24">
+                        <g id="Group">
+                            <path d="M105.0614,193.655 L105.0614,193.655 L143.7014,74.734 L66.4214,74.734 L105.0614,193.655 L105.0614,193.655 Z" id="Fill-4" fill="#E24329" class="tanuki-shape"></path>
+                            <path d="M105.0614,193.6548 L66.4214,74.7338 L12.2684,74.7338 L105.0614,193.6548 L105.0614,193.6548 Z" id="Fill-8" fill="#FC6D26" class="tanuki-shape"></path>
+                            <path d="M12.2685,74.7341 L12.2685,74.7341 L0.5265,110.8731 C-0.5445,114.1691 0.6285,117.7801 3.4325,119.8171 L105.0615,193.6551 L12.2685,74.7341 L12.2685,74.7341 Z" id="Fill-12" fill="#FCA326" class="tanuki-shape"></path>
+                            <path d="M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 L12.2685,74.7342 Z" id="Fill-16" fill="#E24329" class="tanuki-shape"></path>
+                            <path d="M105.0614,193.6548 L143.7014,74.7338 L197.8544,74.7338 L105.0614,193.6548 L105.0614,193.6548 Z" id="Fill-18" fill="#FC6D26" class="tanuki-shape"></path>
+                            <path d="M197.8544,74.7341 L197.8544,74.7341 L209.5964,110.8731 C210.6674,114.1691 209.4944,117.7801 206.6904,119.8171 L105.0614,193.6551 L197.8544,74.7341 L197.8544,74.7341 Z" id="Fill-20" fill="#FCA326" class="tanuki-shape"></path>
+                            <path d="M197.8544,74.7342 L143.7014,74.7342 L166.9744,3.1092 C168.1714,-0.5768 173.3854,-0.5758 174.5824,3.1092 L197.8544,74.7342 L197.8544,74.7342 Z" id="Fill-22" fill="#E24329" class="tanuki-shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+<div class='gitlab-text-container'>
+<h3>GitLab</h3>
+</div>
+</a></div>
+<ul class='nav nav-sidebar'>
+<li class=""><a title="Go to group" class="back-link" href="/groups/WeiHsinChen"><i class="fa fa-caret-square-o-left fa-fw"></i>
+<span>
+Go to group
+</span>
+</a></li><li class='separate-item'></li>
+<li class="home"><a title="Project" class="shortcuts-project" href="/WeiHsinChen/Repo"><i class="fa fa-home fa-fw"></i>
+<span>
+Project
+</span>
+</a></li><li class=""><a title="Activity" class="shortcuts-project-activity" href="/WeiHsinChen/Repo/activity"><i class="fa fa-dashboard fa-fw"></i>
+<span>
+Activity
+</span>
+</a></li><li class="active"><a title="Files" class="shortcuts-tree" href="/WeiHsinChen/Repo/tree/master"><i class="fa fa-files-o fa-fw"></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a title="Commits" class="shortcuts-commits" href="/WeiHsinChen/Repo/commits/master"><i class="fa fa-history fa-fw"></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a title="Builds" class="shortcuts-builds" href="/WeiHsinChen/Repo/builds"><i class="fa fa-cubes fa-fw"></i>
+<span>
+Builds
+<span class='count builds_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Graphs" class="shortcuts-graphs" href="/WeiHsinChen/Repo/graphs/master"><i class="fa fa-area-chart fa-fw"></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a title="Milestones" href="/WeiHsinChen/Repo/milestones"><i class="fa fa-clock-o fa-fw"></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a title="Issues" class="shortcuts-issues" href="/WeiHsinChen/Repo/issues"><i class="fa fa-exclamation-circle fa-fw"></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Merge Requests" class="shortcuts-merge_requests" href="/WeiHsinChen/Repo/merge_requests"><i class="fa fa-tasks fa-fw"></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Labels" href="/WeiHsinChen/Repo/labels"><i class="fa fa-tags fa-fw"></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a title="Wiki" class="shortcuts-wiki" href="/WeiHsinChen/Repo/wikis/home"><i class="fa fa-book fa-fw"></i>
+<span>
+Wiki
+</span>
+</a></li><li class='hidden'>
+<a title="Network" class="shortcuts-network" href="/WeiHsinChen/Repo/network/master">Network
+</a></li>
+</ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" title="Open/Close" href="#"><i class="fa fa-angle-left"></i></a>
+
+</div>
+</div>
+<div class='content-wrapper'>
+<div class='flash-container'>
+</div>
+
+
+<div class='container-fluid container-limited'>
+<div class='content'>
+<div class='clearfix'>
+
+
+<div class='tree-holder' id='tree-holder'>
+<div class='gray-content-block top-block'>
+<div class='tree-ref-holder'>
+<form class="project-refs-form" action="/WeiHsinChen/Repo/refs/switch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<select name="ref" id="ref" class="project-refs-select select2 select2-sm"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input type="hidden" name="destination" id="destination" value="blob" />
+<input type="hidden" name="path" id="path" value="plot1.png" />
+</form>
+
+
+</div>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<a href="/WeiHsinChen/Repo/tree/master">Repo
+</a></li>
+<li>
+<a href="/WeiHsinChen/Repo/blob/master/plot1.png"><strong>
+plot1.png
+</strong>
+</a></li>
+</ul>
+</div>
+<ul class='blob-commit-info hidden-xs'>
+<li class='commit js-toggle-container' id='commit-28b8b8a7'>
+<div class='commit-row-title'>
+<strong class='str-truncated'>
+<a class="commit-row-message" href="/WeiHsinChen/Repo/commit/28b8b8a7338d5cc867aac820356025352941385f">first commit</a>
+</strong>
+<div class='pull-right'>
+<button class="btn btn-xs btn-clipboard" data-clipboard-text="28b8b8a7338d5cc867aac820356025352941385f" type="button"><i class="fa fa-clipboard"></i></button>
+<a class="commit_short_id" href="/WeiHsinChen/Repo/commit/28b8b8a7338d5cc867aac820356025352941385f">28b8b8a7</a>
+</div>
+<div class='notes_count'>
+</div>
+</div>
+<div class='commit-row-info'>
+<a class="commit-author-link has_tooltip" data-original-title="wwwllllfrank@hotmail.com" href="mailto:wwwllllfrank@hotmail.com"><img class="avatar s24" width="24" alt="" src="https://secure.gravatar.com/avatar/faa9eb3b26f2ca54075ae9f3e2ff62f7?s=48&amp;d=identicon" /> <span class="commit-author-name">WeiHsinChen</span></a>
+authored
+<div class='committed_ago'>
+<time class="time_ago js-timeago js-timeago-pending" datetime="2014-05-11T15:05:07Z" title="May 11, 2014 3:05pm" data-toggle="tooltip" data-placement="top" data-container="body">2014-05-11 23:05:07 +0800</time> &nbsp;
+</div>
+<a class="pull-right" href="/WeiHsinChen/Repo/tree/28b8b8a7338d5cc867aac820356025352941385f">Browse Files »</a>
+</div>
+</li>
+
+</ul>
+<div class='blob-content-holder' id='blob-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class="fa fa-file-image-o fa-fw"></i>
+<strong>
+plot1.png
+</strong>
+<small>
+5.6 KB
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+<a class="btn btn-sm" target="_blank" href="/WeiHsinChen/Repo/raw/master/plot1.png">Raw</a>
+<a class="btn btn-sm" href="/WeiHsinChen/Repo/commits/master/plot1.png">History</a>
+<a class="btn btn-sm" href="/WeiHsinChen/Repo/blob/23be6df3bc2e3e4c21e7ac834f37e252d49eadae/plot1.png">Permalink</a>
+</div>
+
+</div>
+</div>
+<div class='file-content image_file'>
+<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAo0AAAKNCAMAAAByc6F/AAAAhFBMVEUAAAAA&#x000A;ADoAAGYAOjoAOpAAZrY6AAA6ADo6AGY6Ojo6OpA6kLY6kNtmAABmADpmZgBm&#x000A;ZjpmZmZmkJBmtv+QOgCQZgCQkGaQtpCQ29uQ2/+2ZgC2Zma2kDq225C2/7a2&#x000A;/9u2///bkDrb25Db/7bb/9vb////AAD/tmb/25D//7b//9v///8yB7jiAAAV&#x000A;m0lEQVR4nO3dC3ujymGHcexY3rSVNjmVmlOruSxJXSzp+3+/MjNcBhmkGTPA&#x000A;3+j9Pc/Z+MgI6cAbLiMtZBdARbb0GwAa1Agd1Agd1Agd1Agd1Agd1Agd1Agd&#x000A;1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd&#x000A;1Agd1Agd1Agd1Agd1Agd1Agd1Agd1Agd1AgdD1/jx2tW2pgfz4fs5b3zy2P2&#x000A;/OvzU7rTFVnvRP/zq2d+V/LM6Xv+Q3rwGstgKvuv1nh0T+467Z4jasye3r76&#x000A;H7Auj11jG2PWW09AjaddvWm9/8RrTY13qn0Yj11jUW3XzO5621Rmd95b8/sy&#x000A;qr/v6lbsw2Yr1qmxyJ7+3KRXVFvZo+37H2a6o9vwlU/eXtwv2nRz98Qy6Hoa&#x000A;+7pu/tWrHKs/q+fl2dPvr6vdlj50jeUKr9brx2u7p87bzdXRO7Armp1qp8ay&#x000A;ln+60prJt36Nhes9N0+021HvMLGq0f3Se137uGu0/HPrPy9f9ab0oWss17K/&#x000A;j3WVlVsoG4Qp7GhXfGG2S+UvN9Umzq/R1FL/e5G5cspqjs2e372Gm+RYVbat&#x000A;ntxuG8v/9V7347Xs0G23y0f3/vPy9aZ4efAaP16bMAwvmerIr9rNNkeBeVaF&#x000A;2RRRmClyf7Lc/NHW6JKzr1R1mDcbx85xo/e65RO35S9/s38+//Kfl/ecMq0H&#x000A;Ndb74Jd3W0+dmi2sKiSv9s9Z9qnGY7U53V6uHm5qtFu3okqyewrtn1Nfve7m&#x000A;ciwPEDf2J/95+WqPGY2HrrHaU3dqrPfe9njv2BZiY9zb33rZNaG4045mv+/V&#x000A;aB82UdVHnp9rNHPrvG6RvfzvoTyBMoee+87zqHG1qrOYoG2j2/5d19jua/dD&#x000A;20azhy1PzPcXt5X05d44UOd1T7tyw1iej5d/lv/mP48a16se4bl4IXaPG+2v&#x000A;zc/u3PjqLMYbr9zUx42FycWvsUzrL/Y3VydN3Ro7r1s+87fq0LGcg/88alwv&#x000A;r6Zmm3d1Tl22Yc+p7cNmen/bWD5Yf6ZYT2cm2TdHmna6ZrDQxl221W5ZvRr9&#x000A;17XbXLeL3nafR40r1vfJYN5s7PzxxmZKv8bmDDdvB72z+hDRjTde7L+4hKpx&#x000A;w6anTo3+65o03S7aTus9jxpXza1pO9DT+SzGVuZ/FmNyfHrL3QCMq9FtEi+X&#x000A;esPmjkCrT3Gyp/+upmu3hjbpdrywW6P3utWcm/m3z6NGYB7UCB3UCB3UCB3U&#x000A;CB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3U&#x000A;CB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB3UCB1xNdYXeOWm&#x000A;oZhCVI15fbOfonPXHyCNmBrPh6bBfMW3F8NiYmo87ZrblhTsq5HeDNvG7K6Y&#x000A;N4wVizxurDaOUceN2f/dQY1w4kqoblwSd1NaakSgGUqgRgSiRuiYYfSbGhFo&#x000A;htFvakSgOUZ4qBFhZhj9pkYEYtsIHYx+Qwej39DBeCN0pCnh5hcgqBGB4krI&#x000A;y97soWM+cE5NjRgh7izm6a08dNxcqBGTiB/hOR/KcxhqxAS+Mvp9fHmnRkzg&#x000A;S6Pfxw01YgJxx41Vg6fd0Ld4qBEjxJ5Tu331+UCNSC9xCdSIEagROqgROqgR&#x000A;OuLGG9vPozmLQXpRJQyeSt+cHTUiUOzfGdzEz44aESiyhCLb3/w9NWIEzmKg&#x000A;gxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqh&#x000A;gxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqh&#x000A;gxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhgxqhI/ZeWjfvMkiNGCWqhDzbuh+K&#x000A;+oeQ2VEjAsWUcD40DeYv78Gzo0YEiinhtGtuMlhwR2Ckx7YROiKPG6uNI8eN&#x000A;mEJcCaedO6ce2DJSI0ZhvBE6qBE6GP2GDka/oYMRHuhg9Bs62DZCB6Pf0MHo&#x000A;N3Qw3ggdaUrIGn2/pEaEYfQbOhj9hg5GeKCD0W/oYNsIHYx+Qwej39DB6Dd0&#x000A;UCN0UCN0UCN0xI03tp9HM96I9KJKOB8GP6C+MTtqRKDYb01s4mdHjQgUWUKR&#x000A;7W/+nhoxAmcx0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN&#x000A;0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN&#x000A;0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN0EGN&#x000A;0EGN0EGN0EGN0BFXwvmQWYM3TadGjBBVQp5t3Q9F/UPI7KgRgWJKOB+aBvOX&#x000A;9+DZUSMCxZRw2u3rH4uBfTU1YgS2jdARedxYbRw5bsQU4ko47dw59cCWkRox&#x000A;CuON0EGN0MHoN3Qw+g0djPBAR5rR76zR9xLUiDBsG6GD0W/oYPQbOhhvhA5q&#x000A;hI64Eo5ZtrEj4PuBCagRI8SdxZTHi8dsY44fOYtBetEjPMXT24URHkwievTb&#x000A;jXvz3W9MgG0jdHztuNH7VOb+7KgRgTinhg7GG6GDGqGDGqGDGqGDGqGDGqGD&#x000A;GqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGDGqGD&#x000A;GqGDGqGjKeG0M39tP9ns/MeoEWG8EvIsG7qA8ldm1z5GjQjTLWF0kNSIEa5L&#x000A;yG/dKSt+dvYxakSYTgmFvcLO+TB4kfm42dWPUSPCtCWY+x24DIcuzhg1O+8x&#x000A;akQY75zaXpgx1ez8x6gRYRhvhA6vhGO5nx68SVb87NrHqBFh2hKO9qDxtBs1&#x000A;Bk6NGME7bnTXqx1xCnOhRozSlFBfyjunRiylLcHdYPXjlc9isBSvhI/XLMtG&#x000A;DvNQI0ZghAc6qBE62hLsfWDGfWeCGjGKN944KsNPs/Meo0aE8cYbx37TtjM7&#x000A;/zFqRJhPo9+JZuc/Ro0I441+J/hrMdSIMdoSisFbWX5pdt5j1Igw/t8Z5Jwa&#x000A;y2K8ETqoETq8Esp99cv78eY4z90R8mlqzO66Nwd8C95ZzNNb/vJ+c9gxr78Z&#x000A;PvgV8YlqZOv6GDrfbyxrvPX9xvorkKV84C+5UiNG6Ix+m8ZufPfbGyAfmooa&#x000A;McKnbeNx+K/2s23EtK6PG/NbY+DNLzluxBS659T3vvtdD5EPbj+pESN8i/FG&#x000A;anwQ1AgdcZ9TLzX6TY2P4Xo93vzL/Yx+Y1Kf1uNx+GuOjPBgWp/W45dGv29+&#x000A;YEyNCPRpPfLJIBZzvR5vXqOM0W9M6tM59c1rfjP6jSkx3ggd1Agdn0e/bw1u&#x000A;m+tRmEuZDX6aTY0Y4fpvsN78Do+N8cfbjUsBUCNG8L7f6AIbGru5VBdHcaPj&#x000A;jPBgAu2e+qfb+94Z/a7GHPnuNybwadt447vfdruYs23EVDrf/S7/zG993fa0&#x000A;e/5lN47F0FTUiBGuv/t954aXhTvpHvy8hhoxAuON0EGN0BF35ZOY2bWPUSPC&#x000A;RF35JGZ23mPUiDAxVz6JmZ3/GDUiTMyVT2Jm5z9GjQgTc+WTmNn5j1EjwkRd&#x000A;+SRmdt5j1IgwcVc+iZld+xg1IgzjjdDROW5MODv/MWpEmM45dcLZ+Y9RI8J4&#x000A;ZzG6d72kxgcRd1Wo8Nn5j1EjwnAWAx3UCB1uPaY5hblQI0bxakwxxkONGIEa&#x000A;oYMaoYMaoYMaoYMaoaOuMeACZeGzu3qMGhGG0W/ooEbooEbooEbooEbooEbo&#x000A;oEbooEbooEbooEbooEbooEbooEbooEbooEbooEbooEbooEbooEbooEbooEbo&#x000A;oEbooEbooEbooEboiFuP58Od61FQI0aIWo95Vl2pp8gGLtlDjRghZj16l43K&#x000A;B+6NSY0YIWY9elcHH7q5DDViBLaN0BF53FhtHDluxBTi1mN9ncfBO6pTI0Zg&#x000A;vBE6qBE6GP2GDka/oYMRHuhIM/rd3lGh7yWoEWHYNkIHo9/Qweg3dDDeCB3U&#x000A;CB1fWY8fr/uhX1EjRogb4bl7b0xqxAhR67E6lWbbiGnEnlObs2lqxDRi1+Px&#x000A;6Y0aMZHo9ZhnW2rENOLX48frH6gRk/jCejwfMmrEFBj9hg5qhA5qhA5qhA5q&#x000A;hA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5q&#x000A;hA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhA5qhI6V1HhX2v9MTGMl&#x000A;NY5+CSigRuigRuigRuigRuigRuigRuigRuigRuigRuigRuigRuigRuigRuig&#x000A;RuiIW03ng/u24POviNlRIwJFraY827ofivqHkNlRIwLFrKbzoWkwf3kPnh01&#x000A;IlDMajrt9vWPxcC+mhoxAttG6Ig8bqw2jhw3Ygpxq+m0c+fUA1tGasQojDdC&#x000A;BzVWL8HfyBbA6HeqN4nxGP1O9SYxHiM8qd4kxksz+n3z6IoaEYhtY6o3ifEY&#x000A;/U71JjEeo9+p3iTGY7wx1ZvEeNSY6k1ivLiFnJd7aXvomK/tG2XUqCDuLObp&#x000A;rTx03FxS13gXNT6G+BGe86E8h0lb4wwT3F0Oo+eA8b4y+n18eadGTOBLo9/H&#x000A;DTViAnHHjVWDp93Qt3ioESPEnlO7ffX5QI1IT2K8cYYJ7r7x0XPAeNQY+ibT&#x000A;Lij0eZQaxw9ppl1Q6PMoNY6fIO2CQh9qDJ0g7YJCH2oMnSDtgkIfagydIO2C&#x000A;Qh9qDJ0g7YJCH2oMnSDtgkIfagydIO2CQh9qDJ0g7YJCH2oMnSDtgkIfagyd&#x000A;IO2CQh9qDJ0g7YJCH2oMnSDtgkIfagydIO2CQh9qDJ0g7YJCH2oMnSDtgkIf&#x000A;agydIO2CQh9qDJ0g7YJCH2oMnSDtgkIfagydIO2CQh9qDJ0g7YJCH2oMnSDt&#x000A;gkIfagydIO2CQh9qDJ0g7YJCH2oMnSDtgkIfagydIO2CQh9qDJ0g7YJCH2oM&#x000A;nSDtgkIfagydIO2CQh9qDJ0g7YJCH2oMnSDtgkIfagydIO2CQh9qDJ0g7YJC&#x000A;H2oMnSDtgkIfagydYLy0i3qNqHG+CdIu6jWixvkmSLuo14ga55sg7aJeI2qc&#x000A;b4K0i3qNqHG+CdIu6jWixvkmSLuo14ga55sg7aJeI2qcb4K0i3qNqHG+CdIu&#x000A;6jWixvkmSLuo14ga55sg7aJeI2qcb4K0i3qNqHG+CdIu6jWixvkmSLuo14ga&#x000A;55sg7aJeI2qcb4K0i3qNqHG+CdIu6jWixvkm4Mvh91Cj0AQPnys1fqcJ0q4s&#x000A;PdT4nSZIu7L0xP0Hng9uj/H8K2J2EutxHRNEr95vJuo/MM+27oei/iFkdhLr&#x000A;cR0TrP3AMub9nw9Ng/nLe/DsJNbjg0zwzXONeXun3b7+sejuq2/+195fRFiR&#x000A;r5ZoU4mYNmDbCIwQedxYbRwHjxuBEeI2rKed2xqzZcQUxA9r8VCoETqoETqo&#x000A;ETqoETqoETqoETqoETqoETqoETqoETqoETqoETqoETpmqHHZryKjY/rVPcYc&#x000A;NU7/EnfxHhyF93ADNc6G93AXNc6G93AXNc6G93AXNc6G93AXNc6G93AXNc6G&#x000A;93AXNc6G93AXNc6G93CX+NvDQ6FG6KBG6KBG6KBG6KBG6KBG6KBG6KBG6KBG&#x000A;6KBG6KBG6KBG6Ji6xiLLnt4mfo077M0RBe4oclz6ThIfr1m2WfYt3DFxjUWZ&#x000A;YrFsjudD+fr58quhWPq+JkX5+qfd4svhlmlrdHffOi66BD5ezS2X8sHbxs7k&#x000A;tFu4RrcuFl8ON01bo0gJl8vSG2hzL7z/WrbGjx8LL4EAE9dol0AhUONx4fdQ&#x000A;LomFjxuL57/vJI6fb5i2RrdFWny7tPyNEc1ucuEac3OP+/PhgY8bVWoslj6J&#x000A;MfesXbrGJ5X91LCH2FMvvWV0y2HpGu1acEfyqh7hLCZfOsbyHThLluC2Cdrn&#x000A;Musf4Wnvqr2whbeNp51ZDIvvp25a/+j3x+vSW8bK0p/FmGNXt3mQNfUng/ni&#x000A;nwxWe8nFz6QWr9F8Srv4McttfGsCOqgROqgROqgROqgROqgROqgROqgROqgR&#x000A;OqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgR&#x000A;OqgROqgROqgROh6uxtMuy+z14N01u5zPVzX0fnu8unhNse88t+PoLvoTcVG2&#x000A;82F/2m2b1xycs/fq9p/6ff5c/PpCCT1ajfbyeefD86/gGj9+/Llzlbmbvbgr&#x000A;P5124ReAyjeXusa7c7/0FFssfa2plB6sxio7c/nr0Brz5791fhtQY8RFAl1d&#x000A;I2ost62BL/UNPFiN9VXr8mqdVheR+3j9z9fqanJHdwnaZo2X4daXbjfX3tuY&#x000A;G1K9/Gu3dwEX9s5I7YXoqvnbX7p52ycXZpbmd9W0p59/ydwGt7Bb6a29AG9T&#x000A;Wt8z3fsyr57ZQw37k71y8Io2jo9Vo38xTbPezbo2t5f6eC2rspcdNdfhNddr&#x000A;b2q0vdlNnXu4bsYlWnaS10+9XDrbxnreuY1wY1+7nrbdlZvXMzXm2b7Z7vU9&#x000A;039f5p+q973CNf7Teawa/X2cLcpEVK5OV1P+/MueFJg13Ux5tPdD214u1+ca&#x000A;uduquYfrCxjXx42bSzNvU8vxt3Jj9uOtmbbZN9dzLurtsf+u/Gf678sW2xzL&#x000A;al9XPs4j1mh2eqaIam9b/tnudi92P9nW6Do19z6q13rdg23CJdMmUZ1Tb+tH&#x000A;yj/L6U4/f//jr7KfZtqmdfvDafdvdldfzbXvmZ335f6pc/SPOr+7R6uxWnOF&#x000A;V6P5wd4pwPxZHtjZs5a6l/ZuBvXdBJqju3LnWW4Ki87tDtqrKTfzvhy3H//+&#x000A;r59v5eTNtE2NdqrT7ul3M/NOjd1ndt6Xfba9s+z+Qo3fWF1LMbBttD94e+rq&#x000A;BMYdW3a3jfZWafurw7brGs2f+ctfy27/4+BNe71t3FYHBN1to/fMzvtqjyKe&#x000A;3qjxG6uTcjVeHzeWWzqz/yvaPXXdT3kC8WmM+rT77WrY0q+xmffl449/Ks9S&#x000A;/vDj7SpC90N1ROqV1vfMzvvqzobjxu/L3cnomG0+n1MX2b6KItvWa7yuy+Rq&#x000A;TmnLbaVppz7+NBtOe8J9rKr17ntQz9vsiN+qu1PX07YJ1+fU5tD0+pzae6b3&#x000A;vtw/9v8m7R8r8Wg1uk8GzZbm83ijHb0z9/Joemm3O+Y8Jnef+R3teOOlGmBx&#x000A;h5b1KYV/F47mhhjuHGjrTdvW2Iw3lvldjTd2nlm/L/Pq7+afor7rCOONSOXu&#x000A;59KTz0AJNS4sH3nbOz6nRjojP2fmOzzANKgROqgROqgROqgROqgROqgROqgR&#x000A;OqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROqgROv4fHQMr&#x000A;EelNJsUAAAAASUVORK5CYII='>
+</div>
+
+</article>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</body>
+</html>
+
