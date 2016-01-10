@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='GitLab Community Edition' name='description'>
+<meta content='origin-when-cross-origin' name='referrer'>
+<title>plot4.png · master · WeiHsinChen / Repo · GitLab</title>
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-0037f4682f7f2d45973338aad43f3d54.ico" />
+<link rel="stylesheet" media="all" href="/assets/application-32755ae1e9ab8ff9dd36ad4f47aba9c4.css" />
+<link rel="stylesheet" media="print" href="/assets/print-2cb1262fb60ceb73f2fe76fd1a61dccf.css" />
+<script src="/assets/application-29243f271de184b06e809d3026b88624.js"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GnYufipSG18a0clxlifRZmN5J/WaPP5lunnp3IdLj/dKWb1jOMOQ6oJn3NBygBR8gw8+bI7f2E4hT9kp6Gqr0A==" />
+<script>
+//<![CDATA[
+window.gon={};gon.api_version="v3";gon.default_avatar_url="https://gitlab.eecs.umich.edu/assets/no_avatar-0801eb7ed213327da2a534095a75b248.png";gon.default_issues_tracker="gitlab";gon.max_file_size=10;gon.relative_url_root="";gon.user_color_scheme="white";
+//]]>
+</script>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-c2b181d197c3b7be4f8ac381458895bb.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-fede15aef7610235936a27957400503a.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-88529dea2f9320df1a3cc45d92e86147.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-c0dbda7e71802ee480f6d666da4b834a.png" sizes="152x152" />
+<meta content='/assets/msapplication-tile-2efcb14bec26fd879dd1914db581f8f9.png' name='msapplication-TileImage'>
+<meta content='#30353E' name='msapplication-TileColor'>
+
+
+
+
+<style>
+  [data-user-is] {
+    display: none !important;
+  }
+  
+  [data-user-is=""] {
+    display: block !important;
+  }
+  
+  [data-user-is=""][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not] {
+    display: block !important;
+  }
+  
+  [data-user-is-not][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not=""] {
+    display: none !important;
+  }
+</style>
+
+</head>
+
+<body class='ui_charcoal' data-page='projects:blob:show'>
+
+<header class='header-expanded navbar navbar-fixed-top navbar-gitlab'>
+<div class='container-fluid'>
+<div class='header-content'>
+<div class='pull-right'>
+<a class="btn btn-sign-in btn-success" href="/users/sign_in?redirect_to_referer=yes">Sign in</a>
+</div>
+<h1 class='title'><span><a href="/groups/WeiHsinChen">WeiHsinChen</a> / <a href="/WeiHsinChen/Repo">Repo</a> &middot; <a href="/WeiHsinChen/Repo/tree/master">Files</a></span></h1>
+</div>
+</div>
+</header>
+
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+<div class='nicescroll sidebar-expanded sidebar-wrapper'>
+<div class='header-logo'>
+<a class="home" title="Dashboard" id="js-shortcuts-home" href="/"><svg width="36px" height="36px" viewBox="0 0 210 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="tanuki-logo">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup" transform="translate(0.000000, 10.000000)">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="Fill-1-+-Group-24">
+                    <g id="Group-24">
+                        <g id="Group">
+                            <path d="M105.0614,193.655 L105.0614,193.655 L143.7014,74.734 L66.4214,74.734 L105.0614,193.655 L105.0614,193.655 Z" id="Fill-4" fill="#E24329" class="tanuki-shape"></path>
+                            <path d="M105.0614,193.6548 L66.4214,74.7338 L12.2684,74.7338 L105.0614,193.6548 L105.0614,193.6548 Z" id="Fill-8" fill="#FC6D26" class="tanuki-shape"></path>
+                            <path d="M12.2685,74.7341 L12.2685,74.7341 L0.5265,110.8731 C-0.5445,114.1691 0.6285,117.7801 3.4325,119.8171 L105.0615,193.6551 L12.2685,74.7341 L12.2685,74.7341 Z" id="Fill-12" fill="#FCA326" class="tanuki-shape"></path>
+                            <path d="M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 L12.2685,74.7342 Z" id="Fill-16" fill="#E24329" class="tanuki-shape"></path>
+                            <path d="M105.0614,193.6548 L143.7014,74.7338 L197.8544,74.7338 L105.0614,193.6548 L105.0614,193.6548 Z" id="Fill-18" fill="#FC6D26" class="tanuki-shape"></path>
+                            <path d="M197.8544,74.7341 L197.8544,74.7341 L209.5964,110.8731 C210.6674,114.1691 209.4944,117.7801 206.6904,119.8171 L105.0614,193.6551 L197.8544,74.7341 L197.8544,74.7341 Z" id="Fill-20" fill="#FCA326" class="tanuki-shape"></path>
+                            <path d="M197.8544,74.7342 L143.7014,74.7342 L166.9744,3.1092 C168.1714,-0.5768 173.3854,-0.5758 174.5824,3.1092 L197.8544,74.7342 L197.8544,74.7342 Z" id="Fill-22" fill="#E24329" class="tanuki-shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+<div class='gitlab-text-container'>
+<h3>GitLab</h3>
+</div>
+</a></div>
+<ul class='nav nav-sidebar'>
+<li class=""><a title="Go to group" class="back-link" href="/groups/WeiHsinChen"><i class="fa fa-caret-square-o-left fa-fw"></i>
+<span>
+Go to group
+</span>
+</a></li><li class='separate-item'></li>
+<li class="home"><a title="Project" class="shortcuts-project" href="/WeiHsinChen/Repo"><i class="fa fa-home fa-fw"></i>
+<span>
+Project
+</span>
+</a></li><li class=""><a title="Activity" class="shortcuts-project-activity" href="/WeiHsinChen/Repo/activity"><i class="fa fa-dashboard fa-fw"></i>
+<span>
+Activity
+</span>
+</a></li><li class="active"><a title="Files" class="shortcuts-tree" href="/WeiHsinChen/Repo/tree/master"><i class="fa fa-files-o fa-fw"></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a title="Commits" class="shortcuts-commits" href="/WeiHsinChen/Repo/commits/master"><i class="fa fa-history fa-fw"></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a title="Builds" class="shortcuts-builds" href="/WeiHsinChen/Repo/builds"><i class="fa fa-cubes fa-fw"></i>
+<span>
+Builds
+<span class='count builds_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Graphs" class="shortcuts-graphs" href="/WeiHsinChen/Repo/graphs/master"><i class="fa fa-area-chart fa-fw"></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a title="Milestones" href="/WeiHsinChen/Repo/milestones"><i class="fa fa-clock-o fa-fw"></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a title="Issues" class="shortcuts-issues" href="/WeiHsinChen/Repo/issues"><i class="fa fa-exclamation-circle fa-fw"></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Merge Requests" class="shortcuts-merge_requests" href="/WeiHsinChen/Repo/merge_requests"><i class="fa fa-tasks fa-fw"></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Labels" href="/WeiHsinChen/Repo/labels"><i class="fa fa-tags fa-fw"></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a title="Wiki" class="shortcuts-wiki" href="/WeiHsinChen/Repo/wikis/home"><i class="fa fa-book fa-fw"></i>
+<span>
+Wiki
+</span>
+</a></li><li class='hidden'>
+<a title="Network" class="shortcuts-network" href="/WeiHsinChen/Repo/network/master">Network
+</a></li>
+</ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" title="Open/Close" href="#"><i class="fa fa-angle-left"></i></a>
+
+</div>
+</div>
+<div class='content-wrapper'>
+<div class='flash-container'>
+</div>
+
+
+<div class='container-fluid container-limited'>
+<div class='content'>
+<div class='clearfix'>
+
+
+<div class='tree-holder' id='tree-holder'>
+<div class='gray-content-block top-block'>
+<div class='tree-ref-holder'>
+<form class="project-refs-form" action="/WeiHsinChen/Repo/refs/switch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<select name="ref" id="ref" class="project-refs-select select2 select2-sm"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input type="hidden" name="destination" id="destination" value="blob" />
+<input type="hidden" name="path" id="path" value="plot4.png" />
+</form>
+
+
+</div>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<a href="/WeiHsinChen/Repo/tree/master">Repo
+</a></li>
+<li>
+<a href="/WeiHsinChen/Repo/blob/master/plot4.png"><strong>
+plot4.png
+</strong>
+</a></li>
+</ul>
+</div>
+<ul class='blob-commit-info hidden-xs'>
+<li class='commit js-toggle-container' id='commit-28b8b8a7'>
+<div class='commit-row-title'>
+<strong class='str-truncated'>
+<a class="commit-row-message" href="/WeiHsinChen/Repo/commit/28b8b8a7338d5cc867aac820356025352941385f">first commit</a>
+</strong>
+<div class='pull-right'>
+<button class="btn btn-xs btn-clipboard" data-clipboard-text="28b8b8a7338d5cc867aac820356025352941385f" type="button"><i class="fa fa-clipboard"></i></button>
+<a class="commit_short_id" href="/WeiHsinChen/Repo/commit/28b8b8a7338d5cc867aac820356025352941385f">28b8b8a7</a>
+</div>
+<div class='notes_count'>
+</div>
+</div>
+<div class='commit-row-info'>
+<a class="commit-author-link has_tooltip" data-original-title="wwwllllfrank@hotmail.com" href="mailto:wwwllllfrank@hotmail.com"><img class="avatar s24" width="24" alt="" src="https://secure.gravatar.com/avatar/faa9eb3b26f2ca54075ae9f3e2ff62f7?s=48&amp;d=identicon" /> <span class="commit-author-name">WeiHsinChen</span></a>
+authored
+<div class='committed_ago'>
+<time class="time_ago js-timeago js-timeago-pending" datetime="2014-05-11T15:05:07Z" title="May 11, 2014 3:05pm" data-toggle="tooltip" data-placement="top" data-container="body">2014-05-11 23:05:07 +0800</time> &nbsp;
+</div>
+<a class="pull-right" href="/WeiHsinChen/Repo/tree/28b8b8a7338d5cc867aac820356025352941385f">Browse Files »</a>
+</div>
+</li>
+
+</ul>
+<div class='blob-content-holder' id='blob-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class="fa fa-file-image-o fa-fw"></i>
+<strong>
+plot4.png
+</strong>
+<small>
+11.1 KB
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+<a class="btn btn-sm" target="_blank" href="/WeiHsinChen/Repo/raw/master/plot4.png">Raw</a>
+<a class="btn btn-sm" href="/WeiHsinChen/Repo/commits/master/plot4.png">History</a>
+<a class="btn btn-sm" href="/WeiHsinChen/Repo/blob/23be6df3bc2e3e4c21e7ac834f37e252d49eadae/plot4.png">Permalink</a>
+</div>
+
+</div>
+</div>
+<div class='file-content image_file'>
+<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAo0AAAKNCAMAAAByc6F/AAAAnFBMVEUAAAAA&#x000A;ADoAAGYAAP8AOpAAZmYAZpAAZrY6AAA6ADo6AGY6AP86OmY6OpA6ZmY6kJA6&#x000A;kLY6kNtmAABmADpmAGZmOgBmOpBmZmZmZrZmkJBmtv+QOgCQOjqQOmaQkDqQ&#x000A;kNuQtpCQ2/+2ZgC2tma225C2/9u2///bkDrbtrbb25Db////AAD/tmb/trb/&#x000A;tv//25D/2////7b//9v///8Tcm1nAAAgAElEQVR4nO2dC3vktnWGsSu50rpx&#x000A;nZU3aS05TTRJduLdadUR/v9/K8ErSOJycOXh8Hv9eDUzBHFAzDsgeAOEBIAL&#x000A;YusCADACGwEfYCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8&#x000A;gI2AD7AR8AE2Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfY&#x000A;CPgAGwEfYCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8gI2A&#x000A;D7AR8AE2Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgA&#x000A;GwEfYCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8gI2AD7AR&#x000A;8AE2Aj7ARsCHdBvFEchQ06hFfy0OKd5f2vT338LrMXiN/VHBxuIRtodq49vj&#x000A;h9f2xUX0L3LG2D+wMQdEG69/nprE9798zR1j/8DGHND31CVj7B/YmIMAGy8f&#x000A;v57Dd9OkGPsnzzZenz43fSIhHopF4E3IUczz9en5gqMYI1m28f2lkfHHph90&#x000A;NuiIWtRTXH95bVrHtrKyxwhPyY0sJW+quBPRVMtb1k2t2EFt4/n+27lo23hw&#x000A;G99/e5UX2EhKoc7tvH0q2m88uI3y8uG1+dG3e+xCEeKocHK/i5MhRb4cjm5j&#x000A;cxijrjAYDxVhIy1FvhwOb+OmERyx2dmoutjmHk16jPCU3MhZcnPfHDZOKdRZ&#x000A;sPLXqQ9uY7efVnxkdhTDzMahbSwTIzwlN/KU/O1RHb7M20b6/S3l4GdjyRj5&#x000A;Ym1FrpKfm1YRe2p/CvQbXWQr+fXpATb6UqDf6CZjyS/mOq5bN/No3GxEv9HN&#x000A;rZ3h4W5jyRj5Ym1FnpKr++vVccz2VwbZ23i2nXtIjxGekht5Sn56aP5v9tMM&#x000A;bBSrdxUKELCnbm8nOxmuoKbHCE/JjWz38LT3kcJGX4qmqq5fcEeZhYw2ysv9&#x000A;73VsdGRpspFD31i7o+z9t1fYaCbfnlqqPlGdazE7tlG+fXq9dJ3s7DHCU3Ij&#x000A;11FMryNsjE6RL4ej2xgcIS1sgI2CmY3XJ9OzQ3lihKfkxjbf1CBIZPR4Gwtt&#x000A;bkjbeLHcB5oeIzwlN27TRjG+42ejVB2bUucbZ1u/Pza0URzTRnX6O+IgBjYW&#x000A;i1DcxqHtZWdj4X4jbIyIEG2jsGap56zbKHjZ2PYbxXORGBI2RkUYzrwc0UbF&#x000A;Cf1GI/u00bae2IGN6h5HtI1m9mbjTDbDUu42Xp8ibrQlxpCwMSrCcW0sGUPC&#x000A;xqgIw7FuDRsFLxvboZZj2kfYWCpCNRslNxu7K/qnUs/FwMbgCGLcg2a3sdNc&#x000A;iv7sET8b3c8MJo+DCRttOVufp+4/rmjjmH5zG51tY/o4mLCRGmF6sYGNYjhT&#x000A;WWSDM/UbjeNgBo2SABupERY2ivI2irWNZW4vy3RMnT4OJmykRhDDa+42htdJ&#x000A;rjM8yeNgwkZqBF2JeBv7M5W2paxtdI6eJacU8eNgDjcA7JRD2SioNoaWK1fb&#x000A;mJwDbKRGGI9bDDZSiyF6waxLM9kYWC2wMQ9cbCSWI9hGGWOj6wjWuIC6p/7l&#x000A;td9ZF7uHBzYSI5hsHBYSbRQUG6esk2y0xSB/GJgiSw6wkRrBYyOlJLDRlwg2&#x000A;EiMk2yh8Z4IXNorBxiGScxe8yMYag/yhMcX1r+2/X7CnNkEteYZZvjUbdUd6&#x000A;TUJstLZbk41ibqNgY+PTZ1WXEQ/HwMaBLLN8jx6JWSNHtlGE2zh+GGOjOWXq&#x000A;nlr9rKNuuIWNPXlm+V5150YbXYZpGRFslOxtHActCgU2Zo0w+bdjGy2f+vNU&#x000A;//ivxfhy8CaqZmORIORM02f5niQJs1E/0vHYKPVDncEcLdTGNiYBGyfcs3yT&#x000A;Rlqe2ai1lLVsXN16aw1YrG3M0uNxJjqGje5ZvkkjLWex0Zl2buPoU7SNhkBp&#x000A;bWOWo0FnomPY6JzlmzbSssFGeTAbs5wpcyY6ho3OWb5pIy2PKm1lo33/u8hm&#x000A;bqOYL5tvlDS9dWxEPLCRCmmk5bmNo1Z1baRs8CL1Lm0sbiRjG0kjLU829m/F&#x000A;cHXGa+OoL8HGdTsIGwuw9VGMTJ2tcWmjDLFR1LJxasFhoyvSdpnSZmv0zXop&#x000A;RgPbdzuwcd0NMxkKG2tn6pytkTxbeoqNoxxeG7UzjH2kUBulzUZjexliY+FZ&#x000A;Lw9ioxvqbOlxNoq1jebEdhul0S1LJiVtlKeY0fJoMeQxbCRcX6XNlr6yUbKx&#x000A;cTrYKts2VnoS4YZtpECaLV23sT9Q9p21kSs53DYukw9ryEAbzf6mt43RwMYg&#x000A;CLOlW22UdhtFso1dC5zZRmFc2QpszJpplnEHZzb2S502CpuNttRDDJlio3bY&#x000A;JFY2ijQbm3o0XrKi5+BMdAwb3eMOUmdLF6MU0yc1bBwjhdko89v4/vL5Yr3e&#x000A;T8rBnegYNrrPflNnS3fYaPUr2MaxKZRxNorBRlnARnUv1P23YjMCH8RGZ9tI&#x000A;ni09xMZRrZWN0mKj0G2UBhtnxbEdiJS1sWsby41tewwbveMOSsps6U4bTXqM&#x000A;x9tBNo6x5ktjbdRSZuk3lhz3+yA2OqHOls7DRrEql4yz0Wa2qWzeFFlygI2S&#x000A;Plt6VRuXG0e2cfqb38bS8wzCRnqEIBv7b31TG2VuGwvPTx1vY+gKm9qYZw6o&#x000A;QBuFyUbpsdESerJRbGujLDo/9TFs7O4qS51X2aCdx0axnY3SbqNIsLHs/NRH&#x000A;sVFh6heGRIi2UUTZaCrJYKOxm6ovGJ3NaiPbfuNGNi5kIK+3aduo2yjr2KiV&#x000A;eFba1Lax7PzUx7AxW79xaVJ/5Zpgo77mjm1UlJuf+gA2ZhsjYTwo1hcfzMay&#x000A;81MfwMZsYySk2SgTbewTZbNRRNhYen7qI9iYa4wEgwdeG8dOo7Qq4/pwnSjI&#x000A;RmmxUUTaGA9szBJv9TrcxmEnzc1GsVzZHnZ4QbhO7b+H3h6mM1HARls832Lt&#x000A;+50tCLBRmD60xMtl4+wY3x+2/+u+F4r67KU9zM5sXB3SloZo41qPcjaue6/V&#x000A;bHTfJ0p99tIeBjZ6AvoWO2ycjhkK2GjKwpR1vbZRUp+9tIeBjdZAlN+0ZuNC&#x000A;A7eNy60QaTZaD9fFcDpnKlOKjd5+I+nZS3sY2OgJ6FscYKO+VMwyCbVx+TOZ&#x000A;DtkL2+iH8OylPczebFwe0hIp9axbb5HVRkmz0ZTGHC/SxqE9LW9jSg7RNtK6&#x000A;paHFIeQSZWOxZ92oNi5XW9lI7Oj3CbexUe2ma9w1ces2FnvWLaeNpOIk2dj/&#x000A;E2vj6UH9rCnFtOXgS7Q/Gxc9LhLFnnUj2Gg44E63UVptNKbXbRSxNrand2zz&#x000A;SpBy8CbapY1iekuk1LNuG9o4y0EM30iIjcRtlFVtFAewMSGgb7HLxj6Nz0Zy&#x000A;t9Fq4xDEcLi0SxsDv9gtbQypx/SA3hRb2aitoHdSTelhY0xxCLnMvgbyUcxw&#x000A;CTX4PlHYOKaoM8+gmE6R0pXZl43dA/zNP8EneSJt1L9vbjaOTGt7w1LKlp7D&#x000A;3MYAxfZl43i1P/gkT5yNs6+7iI3zLCg2CtgYWBxCLrMDLmqm49X+4G7Pjdoo&#x000A;GdsoAm0Um9oYlelJqOsIb4+hz3TUs5FWHN3GqXNFt3HMATamE21jfEBvit3Z&#x000A;qB8pELeRVLjkHCJtDD8GP5CNwm/jvKph45BosjGgwatko2GVWBvP7UZazkxc&#x000A;n8THf1ruCKDaKDnYaLiIMdwokcnG8uN+x9oY5temNl6fntV1assV/9OzvKiH&#x000A;hM8GHYNsFMMqSxvNa02vA20cjj3HAtptlFltLD7ut6hpY7LAsTb+8nr9Yju9&#x000A;o07/tKeAfCMtW0pptFHqNhrXEvrrJBvH84/mXDLaWHzc7+Gi503b+P7y/P7b&#x000A;q8vGL1+3tZG4KQsb+y6r20ZptFHG2Fh83G/eNi5XiO03vn16vViHhcqyp5bR&#x000A;NooaNoqZjTLSxuLjfh/DRidZjmKG0g5WVLJxWNlpo8hmYzSwMQdhNorRF62C&#x000A;7DaK4WWEjTLZxpBtJBUuOYcEG6mJ9eJsZaP7qfSmbbz//TFH2xhho8hlo7Ta&#x000A;KG/dRhFpY9A6hhN1UTaqUd5aLB2e02d5VirG9Rulz0bzShvYOAaOtrH4GGVT&#x000A;P4csS980hqolt7LRM+e88QyP0L53bzG3tlEE2ijj28YcYwTbE0XYKGraKFYf&#x000A;rTJNJfF845BqrMM4G2mk2yjTbFSkjp9uTxRpowzuOG5no/ee5X4urdg9tbTZ&#x000A;6FxjpzaWbRuHlq6KjcGrLFdYNjhZ2sbhIWHjSd14Gz1rDGl6qYhFzWbjsvSe&#x000A;sP3f0v1G2OgrAzWVGI5cb9jGeIg2ykPY6LyGQJ0t3Y7BRt8anY0i2MaxVtY2&#x000A;WuPmsVFd7H9y9Xi8ORASHcFG97iD1NnSXSWVuopVbNQPJ0cbbcXbV9sog20M&#x000A;VyvWRm2dWBudZ7/Js6W7SlrPRmm2UTqqd/B1ymJVek9YYvESc5hslOVtDG9O&#x000A;21rOYKN7vGrqbOmukibaSGVjG93XtCg5+BKNpYy0kViV0TaKDDa6+43U2dLt&#x000A;aDZK1y5TWyOjjVJ77wiWbKPvmpY/B3+iUBvFljbKCBuv/+VJQJ0t3U64jVK3&#x000A;kU68jSLdRs81LVIOvkS3b+NT9BiYu7BREm3UC7sqvSdsQBETcgi3cfwp7sbG&#x000A;dhdTdEzWSBuHsxkhxclgo7H0nrDDi7dPr1EXBgvaOI9AtZH4Lc3X6E9OaBGj&#x000A;+41xPkbaSFmlgI3WtTLZ+P6iRkco95RWuI3LlwE2hh2H57RRyu6msWCY2yhm&#x000A;NtrXymQju2Pq3drYnlIMSh8WYTrXQtxK/eQMPYg02egpa7499ck9exEhB0+i&#x000A;o9hYsm1sU47feTUbZXUbCz+lVddG2lG7vsY++o1tykgbQ4/sNrXRSfL1/i1t&#x000A;9K042ihSbSx+TN2mrG6jXHQ7K9l4cd0nmnS9X/t6N7TRnMVwCiTVxgrnG9uU&#x000A;x7DxZL3b1ni9P2gj53Iws1FmstF3LcZFlI3EliDGxn5F7VVNG9W+2HoomH69&#x000A;v6aNYiMbk+Boo1aLVW1sOjz339oxYswkX+/X5RBlbRyCjG9h475s7No+h43J&#x000A;1/uTbOxeR9lI2cXszUa5tY2u9DnaRjV4o6tt9OcQkEiQNi2bjeLwNspaNso8&#x000A;Nsr2GCbmKjVvGxc/Vq+Nxv07PXYE4Q2XbiNxBd8u1F447VVVG9X5nZJPsGqv&#x000A;I22k1ebcxvl6DG0Mj3AQG9XBTMGntKbX4TZ2FUqKFW2jnNtoLUwZYCMtRZYc&#x000A;0myUuWw0ri/6phA22gt1uzaSNk0sbOyqEzbyt5GSXXyKHDmIXDZSNyjMRrk/&#x000A;GwPXgY3WNPVtFKZMV4Xbm40BucNGLYnZRmfJ1zZKMfzjCinGNSRsHNchXnJY&#x000A;hZoyqGdj6fmp020UwTZORz1iaiqNK8NGe6gpA+IK+2sb5XBzq6PwqwXTOUG6&#x000A;jUKMa44frteGjZQMaMl2YOOq8sYLcfZqNS0QlKNDzcahsz+ucWgbkzaCbqNz&#x000A;qX/9Hud8jaQcrAkMNvZ7a3vpbZtPtnGSa+g8Dl8KbAynso3u+RopOdgTmCov&#x000A;1kZvSK+NdtVgoyMDWrJcNrrmayTl4EpgT2O1MTamQfz5P04bhXQnKQZs1FM4&#x000A;52sk5eBKABt9wMZZCud8jaQcHAlg44R5PA/YSEuRnAMbG8W2NjrP6nK3MUey&#x000A;3droqe5d2ijfHtWuZ5u2MSiEKWgGAmxsx5ooMmbHbmyUxffU6rmiXdqYhZCj&#x000A;mGLj8ETZGB3TbqNftfL9xuvTQw4bgwu0MxsLjlG2IxtlaRvV8x6w0Z+infyu&#x000A;zNlv2OgHNo4pyt7Dw8RGwm64sI1ps6VPKW/cxrIxuNhoSyHWr8vYmDhb+pgS&#x000A;NibkwNvG+fFpSRtTZ0sfy3IAG8uNJgobOzLMlt6lvH0bb/8Mj9lGsbSxu+8y&#x000A;rDhE0mdL71JG3sW9Ixtv/wyP1cbF23I2ps+W3qW8fRsP2zaum0rX7eHFCLEx&#x000A;ojg7s5FXv9H3689iozAk7y6hFbIxfbb0PmWcjZuz8TG1GP4NtjE2pql/z8bG&#x000A;9NnSo4tzUBuF/pkwJDCtLfTWkLJTsS03P/TQ/SMW77tDU9r2ZzumTpwtPWdx&#x000A;6kO0MeO1mOF5F/25Uffa06OsfXLCCYyZR8OzV7ZnEMWYaHovNrMxabb0nMWp&#x000A;T+W2UYw2jpL5+oCajcPhLOFcsJikl+Oj054nYjUbhUboNiaQPlt61uJUp6aN&#x000A;+jc8ueX7wse0UluZYuOcIBuHFegnS3IdxaTOlp61ONUh26h6M4+Jx9TjuTr9&#x000A;4X2vWnob2qcm7KmFnJTU/HI9Ebu9jdki3LiNlw+v6kivPz0bGWOysZclwMbx&#x000A;RZyN+o7etsbCxiBgYw6INraTU6sjvUupOVh3DjMbdwr1mHq4ll9sfuqdAxtz&#x000A;EGKj4u0nS9t46naKph056nEfEbaH2m8c7i45WR4aHK5fm5ajHvcRYXuoNl6f&#x000A;Ws1OlpPfU9uZdJ/ofoGNOaCfbzzbdsQKo430GPsHNuYg19nvcU9uOOZenYm+&#x000A;RYJqPYatN7AK/lqgVVY31qhz0Kh6v+5qkbZosG5w4+iR8pWJ49btJdAWMTl+&#x000A;X7CRQ6AtYnL8vmAjh0BbxOT4fcFGDoG2iMnx+4KNHAJtEZPj9wUbOQTaIibH&#x000A;7ws2cgi0RUyO39cRrgGAvQAbAR9gI+ADbAR8gI2AD7AR8AE2Aj7ARsAH2Aj4&#x000A;ABsBH9JsVKOlNHz4W8Rz2NHRntvXBSNGT7kYS9VqrFWLMdWY3Da2G1R0q+ah&#x000A;KqCeAhpGcKoVtl411qrFmGqEjSuWA/LDxihiqjGXjX9XbX/s4CkhodTfP/zp&#x000A;4z/KhZl+zxe1q7k+iQ+vpWKN1KvGSrUYVY2ZbHx8GIYQLmlj2+N5aP4+F/2F&#x000A;q6F+H9q/z2r0toptY41qrFWLMdWYycZP7Yh7tdrGLlqpMIqmJrtfdrO/qWhj&#x000A;jWqsWIvB1Ziv31jRxrJh+mDqy2qakaptY41qrFqLgdUIG1dc2tGI3l+eVU3W&#x000A;bRtvycaYasxqo+ohmAa1zkSlenx/UeO7nO+/qfo8NT/qT+UPYipWYy0bY6ox&#x000A;q41qgJSfv+zdxm60yqYq1enbP748N3+ey8XqqVeN9fbU4dWIK4OAD7AR8AE2&#x000A;Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgAGwEfYCPg&#x000A;A2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR/Y29gNdbWg2qhvt8JOanF/NvKr&#x000A;wx2wk1qEjYdgJ7XI28aLED809dgOANiOlSrPPzx1Iwy9v/z6KB7eHtUgWNcn&#x000A;UW68lf2zn1pkbWM7IM2HV20AQDXIUDdihxrm5fp0/+3t02vzoRrvZevScmVH&#x000A;tcjaxktTOf0+pvmjqmsawUu96/9Xnxi76UCxo1pkbeO5r8duAEB5fpDnz9JQ&#x000A;j2q01gqjIe+UHdUiaxv7X3U/AKC8fvnnb6+memTZI2fDjmqRtY19j6cfAFDK&#x000A;068/fRtGCNbqsd/5bF1aruyoFlnbqHYuP6uuTjsAoDo4fG4nxXme16OsM23B&#x000A;btlPLfK2ccHWP93bgHEt7srGc83p1m4WxrW4IxvfHrc+OXsLsK7FHdkIbh7Y&#x000A;CPgAGwEfYCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8gI2A&#x000A;D7AR8AE2Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgA&#x000A;GwEfYCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8gI2AD7AR&#x000A;8AE2Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgAGwEf&#x000A;YCPgA2wEfICNgA+wEfABNgI+wEbAB9gI+AAbAR9gI+ADbAR8gI2AD7AR8AE2&#x000A;Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgAGwEfYCPg&#x000A;A2zMyfuLUNx/27ogOwU25uPt8cNr++Ii+hcgDNiYjeufpybx/S9fNyzJboGN&#x000A;gA+wMSuXj1/P2E1HAxtz8v7yfH16vpiPYq6/vKoupRCfaxdrN6TbKI4AsS4a&#x000A;4ZrW8e1HY6dR2Xh5aF6cDTpuvYFV8LtErOeSOfCKkxK7aRvP99/O1raxWd68&#x000A;MNl6hH0UbKwcW53beftk7jfCxgwpyufAK06x2Nen5hCn3VM/FIrAHNjIKvb1&#x000A;SR1vn0w7cthIS1E+B15xUmK3h83GPXGuCHsGNtaM/fbYHztGXKeGjbQUeXMQ&#x000A;0VH52zi0jT70tpN+9iOuRJw8h415KB8bNtJS5M2hTR3cEoTHyQu/fiNszJHD&#x000A;Ldvo7TeeusWmK4OBWxdQg7DRk/pGbfT1G4dTO6f0842wMUsOt22jk1HVDNdi&#x000A;YGOWHArY2N7+/6C9fQ7J1tHJmxaRy3tud8UfrXdNWEPCRlqKvDkUsFHt+N5f&#x000A;Rh19NpKPMdSVPF/s1SrqdrKT5ZaxYQ9tuhgDG2kp8uaQ38blcWwuG8/iP4Lb&#x000A;xqYs1y+2O8qGlhNHMQkp8uaQ38axWVQSNP+/v/yn9oW/v/z6KB6ao92H9jLx&#x000A;x6/dteL2pXz7w58+/uPHxp7/btdoUv3bpPK/voXvqZtfwvtvrxXO8MDGLDmk&#x000A;2jieRRGjNo1ZbbdxtPH+W7PH7Bd27+6/vX1qb+c637eODS8fn9Uab4+f1SME&#x000A;aqWz0BrWiH5jE+YSdXM3bKSlyJtDARtlK+TDZOOzdhJFvev/V8ubXWmfrH35&#x000A;6bW1sfujHiCYNJZRNkYDG2kp8uZQ6gxPY5Ru49lkoxL5Q5dMe/nj1/6PumV7&#x000A;1ukMt/H6ZDiVSAI20lLkzSG/jZf2yLdv+8a2cdhZLtpGOe7QtZf9nyxt40XE&#x000A;PTIIG2kp8uZQ4ihGnTA5d53F88e236g6hMPS0Ub1p98vDy9nNuboN3Yhzecb&#x000A;o7bOlhw25sihxJ761F8aPgvx85fVMfVoY3/r9fuLGF7ObVT77x/0S3sxNp4t&#x000A;Z3B8wEZairw5ML8yaLnQjH5jDmBjAGoXfjHvZIP6jSLoymRwhC45bMyRQy0b&#x000A;+zNBQUcU5/Y427RiWOwT+o1GjmtjXuixlcxoG83AxjzQ+42xA4nCRlqKvDnc&#x000A;to3VIsDGLDkUsLHQ/Y36Ppdc3rYsMe0jbKSlyJtDARvL3N+ozoVfhmMZanm7&#x000A;YhgHk/BQ0kYuPtJtVDfCOO5bToqxSr2H+xsv+lVrcr+x1jODN25jd9dL849l&#x000A;uLeUGKvUu7i/UcrpqnXOttFcwbBRTzH+qoN/2HVtfPs+8L/DgmL3N07iZOk3&#x000A;jrsf0/4HNuopxl+1ZZjglBir1HltlKXubzwHPxfjRlmPtpGW4tQemU53v+SL&#x000A;sUq9j/sbz9P1mFzfp/IbNqakaMk2SkJ+G0vd33jW9qek8jr3xGOaB9iYkkKR&#x000A;b5SEEkcxRe5vnI2XnPH7vJi7lbBxluJS57n0EnvqIvc3nvSHb/Z9LWZ/Ns66&#x000A;70uY25iRlPsb1cPUT3HnbGHjPIVnPKNsoyQwtjHL/Y2kQOmjid64jcaB+iey&#x000A;jZJQy8Yt72+MATbqKcL3MXG/asZtY4bY17+2/37BntpErmPqxtX73x/1O2VC&#x000A;c5ilvl0bnz6royTbbmaj0URvzcbT52Y39pBj3p3btrG9Mmi9mLXVaKI7s9F3&#x000A;NKgOcdrDHJbH1IXub9Sf0w8or0m1js3Gb9yZjT5421jm/sbZEXaWazGwkZyC&#x000A;doaH45661PiNUquUPN9n+nmyMRUfGwMyD2gbT67v8P2l7XlnmCGvxJXBYvc3&#x000A;ht1Rdv3zVDvvfzEpn3yeLJONOfUsYmOtqwipNv7fv9/1FB+/8e0xsN84rnAJ&#x000A;HxkKNgZmliWHAjbKUvc3BvYbZX9AVXCewWgbxeKjfBzaRhslxm/M3W90ARtn&#x000A;KZqf9f3vEY8XbW5jufEbD2tjyOYWsbE5Tmm+jeBHtMKKI0vYWOj+RiX520+h&#x000A;z8VEw8vGrIoFJNXO8FzutVkAihRHlrCx1PiNZ+2YblMbheHljdvYtY3ln0sv&#x000A;1W/MROL4jfEUtFHsz8ZaY3YwtjHD/Y202dIDI2SxcZaev43R8LRxo/sbndcQ&#x000A;XMDGwMyy5MC4bcwQu8g1hAPaWGsEmdu2sUiEbDZOa3tXIedewkbvrPN5iiNh&#x000A;Y0SEw9lYqP9tS327Npa4hnBAG+OBjRNFriHszkbb2mFnePZ5ZbAGAWd48l9D&#x000A;4GOj6eMiNu7gyuCWEMtY5BrCjmwUzuyD+o3MrwxuSUi/Mfs1hAPayP/K4Jbk&#x000A;KW/kc8DZbfSu7LZRGD5zJLAkdadgf2VwS8j9Ruc8g5HPAR/Rxmhgo45jfurY&#x000A;Jy9TbBSw0Zv6hm2U9vmpYaMnrJbCNX4jLQd66hu20TU/deRzwAe00Tl+IymH&#x000A;gNQ3a6O73xj5HPARbWR/ZXBLgvqNuedgPaCNnvEbKTnQU9+wjYrM81Mf0Ub0&#x000A;Gx3Qy0uZnzpwbNsD2oh+owt6v7HA/NRHtBH9Rgfly0u0kSzUtO4ebZQX9Bvt&#x000A;kMvrvqIVN7btAW3kPyrUllDL656DNXJs2wPaGA9snHA+XRQ7mihsXMJgnsEt&#x000A;ydI2htu4+nI52ig8CZZLnYG9KRQc5hnckjz9xtCxbUWKjeO6N2cji5ndtiRT&#x000A;eQPHtk2xUcBGAoe2MTBCFhvFzdnIYp7BLaGVV+2mc54ni7BRLFLSbZxJZc59&#x000A;XZ5l2mw2LmZdWcBgnsEtIf9m+9t08kSoa6MpjK88y7S5bHSfKTOXLex5Oi3e&#x000A;bdrY9mcukZcG92zj9EEuG93j8KiG87NlOWzsgY359tTtHWUny35G9RtVuwkb&#x000A;HdS20dn7y2DjKtWQp1h8OH2QxUbanGSXj18z2CgkbPRGmH3tR7PRR3+G52Ic&#x000A;GsWbw528u7sbU6fY2M8UE7eyPVf/R7Ra8vymnZgODfR/9c/l3EbdhSPYOJzh&#x000A;OZvqGTbmIKON+lq1bBR6UdJtdN/DM8zld4aNhUixcTAbIocAAAugSURBVHBn&#x000A;bmP/qcdG43FRrI3GwxzbNvpTxAxbXd/GzDqabFx8th8bxUY2zhtkyjb6UxQZ&#x000A;FQo2ErDZKEJsFLVsnKctZaNlgoqAHAzcTcg7cbfAs5bs/6etNI+2WsW8tiHb&#x000A;5Qc3YqNY5LLMUS5zXJSxmo19v7HInjqfjbJrtmAj0UZhsNGR45Cnw0ZBtnFd&#x000A;Z6FtYwywUSPTCMGwMZYwG42WONYy2ujScVMbc40Q3H3hZhvF7IVMslEYbBQy&#x000A;0sYxs/7NatMCbGy6jOfwKecpMWx+kGxcJWZto3uEYPrVfkY2rqMH2ziGMNaK&#x000A;qRbeX56vT88x17X8Nk72qF21Xj6HV/0Cs64uG1fv78aP7ywpVqvGnm90jxBM&#x000A;v9rvsFFfNH4oqTb2nkzm6TaKABt11/LbqH7V5uvQ1ByspNnoWkhZVNVG53Mx&#x000A;AVf7y9s4iGW1cXFGe3gZY6N5G01obeO50JwIR7LRRcDVfo+NooiNg2ya9FJu&#x000A;Y6O8qPlHPxXpN8LGDvrVfs42tv9pXc8iNkYTYuNULdpC61rOLOmL2NhIv9pf&#x000A;xEaRZqPw2ChgI2VRRRtzjVFWwEYRbqOYcpew0ZklfVHVtlGN3xjzoFa8jaKo&#x000A;jSLUxqncq02DjbKyjQrTnljHP5ooGxsFbHQv8CxE22i1UeawUcDGgIWH6zfe&#x000A;oo3uuSUoOVg5kI0eyCO9Hd1G55xkxBwsHMXG6y+v7uc56CO9ZbZR1LFRZLRR&#x000A;dte1gu9wDLKxK+Rt2ugjYGwt2NjPLRE8KTBsJHIsG8VaQrqNY/87+MYJ2Djh&#x000A;Hj+GPtLb0W2MBzYOqL1Li233Qh7pDTbGAhsncs26c3Qbx2E7gp8ahI05gI2z&#x000A;FG2npvkn+BZH2Kih7snzXRg0EmCjuH0bx/43jmIMSag2vr+oE2RFn9LiZaMo&#x000A;Y+M4tm3wozGwccJ9TO3CYqNIsFGUt1EUsrG7bPXQHBeGnv6GjRqn0PGqzRES&#x000A;bRRrG+XObIwFNmq4Z710UMJGsVsbC84IfCQbo8lro6hioyhmo2ewvJR5BmEj&#x000A;gSgbhx5in8HaDYONIsBGYUhQxcZcd58YOJKNZ1ctutixjSK/jU7SZnY7kI3d&#x000A;cB22mSVcpNtoaqmK2mgMNK4OG82L6p7huX7JMGLHnmyUJWx0jvWWNM/ggWx8&#x000A;f3l+/+11AxuXKgbaKMrYKOabRrfRM9ZbyjyDB7JRXRm8RD2mNf/K6too2Nno&#x000A;HuvNuOaAL+GRbIxG+8pWXi0WzWwczHDZKIXTxmkFNja6x3oj1aMN2EjAaaOY&#x000A;LRL656MDy0Xj68GXzDZOZShgY66rCAaOZGP6SMtGG4W+yGDjqj102SisNopZ&#x000A;/0C3UcTaKOJsdOGcsyzGxmml27Ixw0jLNhuNDeDKRrmWZG7jIN2wk7eozNlG&#x000A;82lvag4HstHZ+6b9pldG6EKSbRSTJKMvC0WdNk4ZWG2cxBZaUKmvF2/jxVZP&#x000A;LY456WHjhKf3TflN2220fGKzcWq7Um3U046Li9p4fYqYKoYW40A2enrflN+0&#x000A;yz2x+mT5lmqjPXeLjZp7MyHtNk6dU3otjjZWvYfnZm2Mxm6jXDlislH4bZRu&#x000A;G+X69aDYYN8i7Dz36b3WU43dU5+rjMNzDBv/J+FazFITzcbRj3kCPdnUpxu7&#x000A;lAQbF21cFhtlUtvovIeHVI82DmOjqsNn9Vh1Si0G2Dh7qykQYqPWI9RcM9m4&#x000A;bLPNNo6fJdkYD2zsUY8WvX16PQnfXsY5muhMh7kRuo1Ta6V/FG+jMNqoqw8b&#x000A;IxZuZ2Pb9T7F7F7kqm202Ki1ZGE2SpqNa++nGG3hBhvH8G4bRYyNXT1+LjY/&#x000A;9YFsjDnzPYswN2Buoyxh4yidttfPY6NWbmItwsbMNrru36E8z7G2UWrfamkb&#x000A;JWy0reXMkr6IjY2k5znMNgqDjVKzxWKjFHMbhZbtkGMZGyVsNC+qZqPryp+k&#x000A;3kFfxUY5eeKxUXNXwsbghRzON5rZysbBxJWNgmLjpJuEjcEL+dpIe56jrI2T&#x000A;TH36cBs1sUk2imAbPfsYfw4uYOMA5XmOUjbKWjZqUeNsTAI25qC2jcML2Agb&#x000A;1/htFFvZKJY2SthIXQgbGdgohi2BjcZPGJzhcXIzNkot8VRuYi3CRrSNxWwc&#x000A;UpFrETbCRtioLbSu5cySvqimjeljlEXZKLe0ccwWNhIWVbQxwxhlsDEJ2DiR&#x000A;YYwy2JgEbJzIMEYZbEwCNmpkGKMMNqYAG3MAG2kpknOAjQRgIy1Fcg5HsrEd&#x000A;ayLmyXTYSEuRnMOBbBznxyOmN0SAjUnAxokM8wzCxiTmOXz//n35UtnYv2xK&#x000A;1nzab1Ob4M6wWr/W+Nm08Pt64TLk3erTuzHOXZv7MsXd8PJujD+UyryNDtrx&#x000A;Y3D2Gzb2L7ez0X8PT/wTrLCRCGykkvYEK2ykkN/G791at2Zj4jODsJHCrmz8&#x000A;bkgxt/G7XirzNjpwjSYKG73Vl93G6SscXrbH1N+HtN2nYkhwZ1vtbvpsWjhl&#x000A;aYjTvbxbfXo3xmmLsUpxN7zsbJQy3kb3GZ60J1hhIwXYOOE5w5P0BCtsHCHP&#x000A;T31sG3H2u4aN9Pmpj21jhjmgYKMPY/9b24yWOyvNgYP4PiKnl82nrrWElm7+&#x000A;yr6WWm+x0t0URx1BrVceEq8zCaolMu6xbUcbdUtGG8fXaxsNGslhLUm2cR7S&#x000A;a+Ms8YY2BuWwc8pvI2qRlkKRND/1DUD7zRYdzegGyHYUkzI/9Q2QaRvJx4K3&#x000A;Sf0zPLdJnm2kHwveJrAxD8RtvHz8+vaYeC3mhqli4xEg1cTlw6syzTaboNvG&#x000A;I+B3iVTPFOr9uqtFCgv0/vLcmXaJuDIYGTMBjt8XbMwWqG37lI0xVwYjYybA&#x000A;8fuCjdkCTXvin+JmMIqImQDH7ws25gs07oljp7ONiLmDQLBxk0DXp1bDU9xM&#x000A;g3ExdxAINm4U6OztFuaPyT4QbNxZoC1icvy+YCOHQFvE5Ph9HeEaANgLsBHw&#x000A;ATYCPsBGwAfYCPgAGwEfYCPgA2wEfICNgA+wEfABNgI+pNmonklq+PC3iJGu&#x000A;o6M9t68LRoye2CCWqtVYqxZjqjG5bWw3qOhWzUNVQN0t243vVC9svWqsVYsx&#x000A;1QgbVyyHvYONUcRUYy4b/67afucjSukMWb/94U8f/1EuzPR7vqhdzfVJfHgt&#x000A;FWukXjVWqsWoasxk4+ND+2h7YRvbHs9D8/e56C9cDajz0P59Vs9IV2wba1Rj&#x000A;rVqMqcZMNn5qn2uv1TZ20UqFUTQ12f2ym/1NRRtrVGPFWgyuxnz9xoo2lg3T&#x000A;B1NfVtOMVG0ba1Rj1VoMrEbYuOLSPvP3/vKsarJu23hLNsZUY1YbVQ/hnPT8&#x000A;pj+ULF6P7y9qZJLz/TdVn6fmR/2p/EFMxWqsZWNMNWa1UT3B+fOXvdvYjbPY&#x000A;VKU6ffvHl+fmz3O5WD31qrHenjq8GnFlEPABNgI+wEbAB9gI+AAbAR9gI+AD&#x000A;bAR8gI2AD7AR8AE2Aj7ARsAH2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBG&#x000A;wAfYCPgAGwEfYCPgA3sbxznIdaqN+nYr7KQW92cjvzrcATupRdh4CHZSi7xt&#x000A;vAjxQ1OP7QCA7Vip8vzDUzfC0PvLr4/i4e1RDYJ1fRLlxlvZP/upRdY2tgPS&#x000A;fHjVBgBUgwx1I3aoYV6uT/ff3j69Nh+q8V62Li1XdlSLrG28NJXT72OaP6q6&#x000A;phG81Lv+f/WJsZsOFDuqRdY2nvt67AYAlOcHef4sDfWoRmutMBryTtlRLbK2&#x000A;sf9V9wMAyuuXf/72aqpHlj1yNuyoFlnb2Pd4+gEApTz9+tO3YYRgrR77nc/W&#x000A;peXKjmqRtY1q5/Kz6uq0AwCqg8PndlKc53k9yjrTFuyW/dQibxsXbP3TvQ0Y&#x000A;1+KubDzXnG7tZmFcizuy8e1x65OztwDrWtyRjeDmgY2AD7AR8AE2Aj7ARsAH&#x000A;2Aj4ABsBH2Aj4ANsBHyAjYAPsBHwATYCPsBGwAfYCPgAGwEfYCPgA2wEfPh/&#x000A;ingNvl9SDGcAAAAASUVORK5CYII='>
+</div>
+
+</article>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</body>
+</html>
+
